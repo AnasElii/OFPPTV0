@@ -16,10 +16,12 @@ public class AfText : MonoBehaviour {
     // Use this for initialization
     void Start () {
         Qaaf.text = "Hellow";
-        Qaaf1.text = "Azer";
+        //Qaaf1.text = "Azer"; 
+    }
 
-        
-        
+    public void changText(string newText)
+    {
+        float temp = float.Parse(newText);
     }
 
     // Update is called once per frame
