@@ -11,6 +11,7 @@ public class AfText : MonoBehaviour {
     public Text Qaaf3 = null;
     public Text Qaaf4 = null;
     public Text Qaaf5 = null;
+//b3aba3
 
 
     // Use this for initialization
