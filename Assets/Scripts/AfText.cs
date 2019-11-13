@@ -16,6 +16,7 @@ public class AfText : MonoBehaviour {
     // Use this for initialization
     void Start () {
         Qaaf.text = "Hellow";
+        Qaaf1.text = "Azer";
 
         
         
