@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class AfText : MonoBehaviour
 {
-     //new
+     //11/13/2019 10:09 pm
     //public GameObject Afficher;
     public Text UserName = null;
     public Text Time = null;
